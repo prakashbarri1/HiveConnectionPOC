@@ -1,0 +1,7 @@
+hive:
+  username: hive
+  password: hive
+  url: jdbc:hive2://localhost:10000/default
+  
+server:
+  port: 9190
